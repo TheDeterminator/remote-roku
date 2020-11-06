@@ -1,0 +1,18 @@
+{
+  "netflix": {
+    "Gran Torino": "70105600",
+    "Spider-Man: Into the Spider-Verse": "81002747",
+    "Monty Python and the Holy Grail": "771476"
+  },
+  "disneyplus": {
+    "Avengers: Age of Ultron": "76IUxY0rNHzt",
+    "Thor: Ragnarok": "3XqAT8UV8ojS",
+    "Marvel Studios' Captain Marvel": "38xJGlLAQy9a",
+    "Marvel Studios' Ant-Man": "5c92KVf1zgUX"
+  },
+  "youtube": {
+    "Web Assembly (WASM) in 100 Seconds": "cbB3QEwWMlA",
+    "Starting a Small Business as a Web Developer": "qn6OhK_Irm4"
+  },
+  "hulu": {}
+}
