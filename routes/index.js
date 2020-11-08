@@ -2,12 +2,8 @@ var express = require("express");
 var router = express.Router();
 var fs = require("fs");
 
-var contentIDs = require("../model/content-ids.json");
-var channelIDs = require("../model/channel-ids.json");
+// var contentIDs = require("../model/content-ids.json");
 var rokuIDs = require("../model/roku-ids.json");
-var reverseChannelIds = require("../model/reverse-channel-ids.json");
-var contentMapping = require("../model/content-mapping.json");
-// const { returnMetaData } = require("../util");
 const {
   getKeysFromMaster,
   getChannelAndIdFromMaster,
@@ -30,6 +26,10 @@ router.get("/getIds", function (req, res, next) {
       data: getChannelIdToContentListMap(),
       file: "Remote Roku/content-id-list.json",
     },
+    rokuDevices: {
+      data: rokuIDs,
+      file: "Remote Roku/roku-ids.json"
+    }
   });
 });
 

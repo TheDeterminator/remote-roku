@@ -23,6 +23,13 @@ const getChannelIdToContentListMap = () => {
   }, {});
 };
 
+const getChannelCodeAndId = () => {
+  return Object.entries(rokuMaster).reduce((acc, [code, meta]) => {
+    acc[code] = meta.channelId;
+    return acc;
+  }, {});
+};
+
 // router.get("/buildMasterObj", (req, res) => {
 //     let a = Object.keys(channelIDs);
 //     let b = a.reduce((acc, cur) => {
@@ -47,7 +54,7 @@ const getChannelIdToContentListMap = () => {
 //         : [];
 //       return acc;
 //     }, {});
-  
+
 //     fs.writeFile(
 //       `${__dirname}/../model/roku-master.json`,
 //       JSON.stringify(b, null, 2),
@@ -58,10 +65,10 @@ const getChannelIdToContentListMap = () => {
 //     );
 //     return res.json(b);
 //   });
-  
 
 module.exports = {
   getKeysFromMaster,
   getChannelAndIdFromMaster,
   getChannelIdToContentListMap,
+  getChannelCodeAndId,
 };
