@@ -1,0 +1,200 @@
+{
+  "netflix": {
+    "channelId": "12",
+    "displayName": "Netflix",
+    "content": [
+      {
+        "idx": 0,
+        "title": "Gran Torino",
+        "contentId": "70105600",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 1,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "contentId": "81002747",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 2,
+        "title": "Monty Python and the Holy Grail",
+        "contentId": "771476",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 3,
+        "title": "A New York Christmas Wedding",
+        "contentId": "81345799",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 4,
+        "title": "Boyz n the Hood",
+        "contentId": "328438",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 5,
+        "title": "Basic Instinct",
+        "contentId": "286139",
+        "mediaType": "movie"
+      }
+    ]
+  },
+  "youtube": {
+    "channelId": "837",
+    "displayName": "YouTube",
+    "content": [
+      {
+        "idx": 0,
+        "title": "Web Assembly (WASM) in 100 Seconds",
+        "contentId": "cbB3QEwWMlA",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 1,
+        "title": "Starting a Small Business as a Web Developer",
+        "contentId": "qn6OhK_Irm4",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 2,
+        "title": "Delusional Trump Completely Humiliated at Bizarre Briefing",
+        "contentId": "LDdxwx1eFU8",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 3,
+        "title": "Joe Biden Has Won, Donald Trump Melts Down",
+        "contentId": "67hoG2om_i8",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 4,
+        "title": "You Did",
+        "contentId": "cMJylhJMUT8",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 5,
+        "title": "Michael Steele: Donald Trump Is 'Having The Typical Donald Trump Temper Tantrum' | Deadline | MSNBC",
+        "contentId": "F6qb8phcdCs",
+        "mediaType": "movie"
+      }
+    ]
+  },
+  "amazon": {
+    "channelId": "13",
+    "displayName": "Prime Video",
+    "content": []
+  },
+  "vudu": {
+    "channelId": "13842",
+    "displayName": "Vudu",
+    "content": []
+  },
+  "hulu": {
+    "channelId": "2285",
+    "displayName": "Hulu",
+    "content": [
+      {
+        "idx": 0,
+        "title": "Shark Tank",
+        "contentId": "20ed5e79-3fba-4eda-8d84-ed6e33f9a019",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 1,
+        "title": "Dead Presidents",
+        "contentId": "305e5ca2-7aa2-4703-b442-c0e477a047e5",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 2,
+        "title": "Totally Under Control",
+        "contentId": "4e196a01-bdeb-4b2b-903d-492b65f9e337",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 3,
+        "title": "Snakes on a Plane",
+        "contentId": "9e0d4c1e-967f-4827-ac41-538022e0d4bd",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 4,
+        "title": "Reasonable Doubt",
+        "contentId": "3048a6ac-be5b-4e28-93a4-1ea40e9c147e",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 5,
+        "title": "If Beale Street Could Talk",
+        "contentId": "a862614d-c49e-4208-b934-1476963896fe",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 6,
+        "title": "78/52: Hitchcock's Shower Scene",
+        "contentId": "0d953879-7ccb-4995-94a0-f5b8173e0867",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 7,
+        "title": "General Commander",
+        "contentId": "f925c0b1-56ae-40b4-a558-0e569a6b2454",
+        "mediaType": "movie"
+      }
+    ]
+  },
+  "disneyplus": {
+    "channelId": "291097",
+    "displayName": "Disney+",
+    "content": [
+      {
+        "idx": 0,
+        "title": "Avengers: Age of Ultron",
+        "contentId": "76IUxY0rNHzt",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 1,
+        "title": "Thor: Ragnarok",
+        "contentId": "3XqAT8UV8ojS",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 2,
+        "title": "Marvel Studios' Captain Marvel",
+        "contentId": "38xJGlLAQy9a",
+        "mediaType": "movie"
+      },
+      {
+        "idx": 3,
+        "title": "Marvel Studios' Ant-Man",
+        "contentId": "5c92KVf1zgUX",
+        "mediaType": "movie"
+      }
+    ]
+  },
+  "hbo": {
+    "channelId": "61322",
+    "displayName": "HBO",
+    "content": []
+  },
+  "espn": {
+    "channelId": "34376",
+    "displayName": "ESPN",
+    "content": []
+  },
+  "deeplinkingtester": {
+    "channelId": "46379",
+    "displayName": "Deep Linking Tester",
+    "content": []
+  },
+  "roku": {
+    "channelId": "151908",
+    "displayName": "Roku Channel",
+    "content": []
+  }
+}
